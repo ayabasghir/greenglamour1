@@ -1,0 +1,278 @@
+
+
+*{   background-color:#ffcece
+}
+
+section {
+    padding: 20px;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+.hero{
+position: relative;
+}
+.logo{
+    width: 100px;
+    cursor: pointer;
+}
+.navbar{
+    width: 85% ;
+    height: 15%;
+    margin:auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+index
+header {
+background-repeat: no-repeat;
+height: 60vh;
+margin: 0;
+padding: 0;
+display:block;
+}
+
+main{
+    text-align: center;
+    padding: 20px;
+}
+
+.center {
+    text-align: center;
+    margin-top:10px;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin-top:20px ;
+}
+
+main p {
+    padding: 1em;
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+concept
+
+.clothing-list {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+}
+
+.clothing-list img {
+    max-width: 70%;
+    border-radius: 1em;
+    margin-top: 1em;
+    margin: 0 auto; /* Centering images */
+}
+
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+ul {
+    display: block;
+    margin: 0;
+    padding-inline-start: 40px;
+    list-style: none;
+}
+
+.clothing li {
+    transition: transform 0.3s ease-in-out;
+}
+
+.clothing li:hover {
+    transform: scale(1.05);
+}
+
+
+
+ervaring
+
+.quote-container {
+    text-align: center;
+    margin: 20px 0;
+}
+.quote {
+    font-style: italic;
+    color: #777;
+}
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.image-container img {
+    max-width: 100%;
+    max-height: 300px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    font-size: 60px;
+    margin:10px 0 30px ;
+    line-height: 80px;
+
+}
+ 
+small{
+   font-size:20px ; 
+}
+
+header {
+    color: #f693b0;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+ 
+a:hover{
+    color: #f693b0;
+}
+
+
+body {
+height:100vh ;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+align-items:center;  
+justify-content:center;
+}
+
+
+nav {
+    
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+
+LENA 
+
+
+
+div.lena-item {
+    width: 45%;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 200px;
+    border-radius: 5px;
+}
+
+footer {
+    color: palevioletred;
+    text-align: center;
+    padding: 10px;
+}
+
+/* ... (andere stijlen blijven hetzelfde) ... */
+
+.lena-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto; /* Behoudt de beeldverhouding */
+}
+
+/* ... (andere stijlen blijven hetzelfde) ... */
+
+@media screen and (min-width: 600px) {
+    /* Stijlen voor schermen groter dan 600px breed */
+ 
+}
+
+.lena-item {
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px; /* Optioneel: voeg afgeronde hoeken toe aan de afbeeldingen */
+}
+
+.pink-background {
+    background-color: #ff4081; /* Roze achtergrondkleur */
+    padding: 10px;
+    border-radius: 8px; /* Afgeronde hoeken voor de achtergrond */
+}
+
+
+
+
